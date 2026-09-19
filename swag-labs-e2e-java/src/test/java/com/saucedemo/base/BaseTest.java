@@ -10,7 +10,7 @@ import org.testng.annotations.Parameters;
 
 import java.time.Duration;
 
-public class BaseTest {
+public class BaseTestClass {
 
     protected WebDriver driver;
 
